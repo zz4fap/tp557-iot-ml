@@ -11,8 +11,10 @@ O material das aulas pode ser encontrado na pasta **slides** e pode ser acessado
 
 <img src="/figures/ml_logo1.png" width="100px"> <img src="/figures/inatel_logo.png" width="200px">
 
-Professores
+### Professores
 
 Samuel Baraldi Mafra (samuelbmafra@inatel.br)
+
+
 Felipe Augusto Pereira de Figueiredo (felipe.figueiredo@inatel.br)
 
