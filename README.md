@@ -4,7 +4,7 @@ Repositório contendo o material da disciplina "Tópicos avançados em IoT e Mac
 
 ## Material das aulas
 
-O material das aulas pode ser encontrado na pasta **slides** e pode ser acessado através dos links abaixo.
+O material das aulas pode ser acessado através dos links abaixo.
 
 1.
 
