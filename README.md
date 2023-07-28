@@ -12,7 +12,7 @@ O material das aulas pode ser acessado através dos links abaixo.
 
 3. [Desafios do TinyML: Machine Learning](https://github.com/zz4fap/tp557-iot-ml/blob/main/slides/TP557_3_Desafios_do_TinyML_machine_learning.pdf)
 
-
+4. [O Paradigma do Machine Learning](https://github.com/zz4fap/tp557-iot-ml/blob/main/slides/TP557_4_O_Paradigma_do_Machine_Learning.pdf)
 
 
 <img src="/figures/iot_lab.jpg" width="100px"> <img src="/figures/ml_logo1.png" width="100px"> <img src="/figures/inatel_logo.png" width="200px">
