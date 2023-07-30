@@ -14,6 +14,7 @@ O material das aulas pode ser acessado através dos links abaixo.
 
 4. [O Paradigma do Machine Learning](https://github.com/zz4fap/tp557-iot-ml/blob/main/slides/TP557_4_O_Paradigma_do_Machine_Learning.pdf)
 
+5. [Medindo a precisão de um modelo de ML](https://github.com/zz4fap/tp557-iot-ml/blob/main/slides/TP557_5_Medindo_a_precisão_de_um_modelo_de_ML.pdf)
 
 <img src="/figures/iot_lab.jpg" width="100px"> <img src="/figures/ml_logo1.png" width="100px"> <img src="/figures/inatel_logo.png" width="200px">
 
