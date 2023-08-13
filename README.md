@@ -18,7 +18,9 @@ O material das aulas pode ser acessado através dos links abaixo.
 
 6. [Minimizando o erro](https://github.com/zz4fap/tp557-iot-ml/blob/main/slides/TP557_6_Minimizando_o_erro.pdf)
 
-7. [Regressão com DNNs](https://github.com/zz4fap/tp557-iot-ml/blob/main/slides/TP557_7_Regressão_com_DNNs.pdf)
+7. [Regressão com DNNs (Parte I)](https://github.com/zz4fap/tp557-iot-ml/blob/main/slides/TP557_7_Regressão_com_DNNs_parte_I.pdf)
+
+8. [Regressão com DNNs (Parte II)](https://github.com/zz4fap/tp557-iot-ml/blob/main/slides/TP557_8_Regressão_com_DNNs_parte_II.pdf)
 
 <img src="/figures/iot_lab.jpg" width="100px"> <img src="/figures/ml_logo1.png" width="100px"> <img src="/figures/inatel_logo.png" width="200px">
 
