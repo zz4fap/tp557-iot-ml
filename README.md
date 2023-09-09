@@ -28,6 +28,8 @@ O material das aulas pode ser acessado através dos links abaixo.
     
 11. [Métricas de classificação](https://github.com/zz4fap/tp557-iot-ml/blob/main/slides/TP557_11_Métricas_de_Classificação.pdf)
 
+12. [Introduzindo convoluções](https://github.com/zz4fap/tp557-iot-ml/blob/main/slides/TP557_12_Introduzindo_convolu%C3%A7%C3%B5es.pdf)
+
 <img src="/figures/iot_lab.jpg" width="100px"> <img src="/figures/ml_logo1.png" width="100px"> <img src="/figures/inatel_logo.png" width="200px">
 
 #### Professores
