@@ -32,6 +32,8 @@ O material das aulas pode ser acessado através dos links abaixo.
    
 13. [Prevenindo o sobreajuste](https://github.com/zz4fap/tp557-iot-ml/blob/main/slides/TP557_13_Prevenindo_o_sobreajuste.pdf)
 14. [Introdução ao TensorFlow Lite  e Edge impulse](https://github.com/zz4fap/tp557-iot-ml/blob/main/slides/TP557_14_introducao_tensorflowlite.pdf)
+15. [Introdução ao Arduino BLE](https://github.com/zz4fap/tp557-iot-ml/blob/main/slides/TP557_14b_introducao_arduinoble.pdf)
+16. [Detecção de movimentos](https://github.com/zz4fap/tp557-iot-ml/blob/main/slides/TP557_15_classifica%C3%A7%C3%A3o%20de%20movimentos.pdf)
 
 <img src="/figures/iot_lab.jpg" width="100px"> <img src="/figures/ml_logo1.png" width="100px"> <img src="/figures/inatel_logo.png" width="200px">
 
