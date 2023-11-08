@@ -35,6 +35,7 @@ O material das aulas pode ser acessado através dos links abaixo.
 15. [Introdução ao Arduino BLE](https://github.com/zz4fap/tp557-iot-ml/blob/main/slides/TP557_14b_introducao_arduinoble.pdf)
 16. [Detecção de movimentos](https://github.com/zz4fap/tp557-iot-ml/blob/main/slides/TP557_15_classifica%C3%A7%C3%A3o%20de%20movimentos.pdf)
 17. [Detecção de anomalias](https://github.com/zz4fap/tp557-iot-ml/blob/main/slides/TP557_16_detec%C3%A7%C3%A3o_de_anomalias.pdf)
+18. [Identificação de palavras chave](https://github.com/zz4fap/tp557-iot-ml/blob/main/slides/TP557_17_identifica%C3%A7%C3%A3o_palavras_chave.pdf)
 
 <img src="/figures/iot_lab.jpg" width="100px"> <img src="/figures/ml_logo1.png" width="100px"> <img src="/figures/inatel_logo.png" width="200px">
 
